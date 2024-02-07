@@ -390,6 +390,10 @@
 -analyzer:"C:/Program Files/Unity/Hub/Editor/2023.1.19f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
 "Assets/MatchCameraSize.cs"
 "Assets/scripts/BucketController.cs"
+"Assets/scripts/GameManager.cs"
+"Assets/scripts/PauseMenu.cs"
+"Assets/scripts/WinController.cs"
+"Assets/UI button pack 2/Scene/CreateObj.cs"
 -langversion:9.0
 
 /deterministic

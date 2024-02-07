@@ -41,7 +41,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _FillAmount: 0.933
+    - _FillAmount: 0
     - _ScaleAndRotationProperty: 1
     m_Colors:
     - _WaterColor: {r: 0.0052758222, g: 0.6681949, b: 0.93207544, a: 0}
